@@ -1,0 +1,40 @@
+body{
+	text-align: center;
+	text-transform: uppercase;
+	font-style: italic;
+	background-color: light yellow;
+	font-size: 40px;
+	
+   
+}
+a{
+	font-size: 25px;
+	color: green;
+}
+
+span
+{
+	border-left: 5px;
+}
+p{
+	font-size: 16px;
+	text-align: left;
+	color: green;
+	border:2px;
+	border-color: blue;
+}
+.navbar{
+	top:-17px;
+
+}
+h1{
+	margin:12px;
+	margin-bottom: 30px; 
+}
+h3{
+	color:red;
+}
+.dropdown{
+	display: inline-block;
+	position: relative;
+	}
